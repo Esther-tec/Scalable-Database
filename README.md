@@ -1,6 +1,6 @@
 preview
 <h1 align="center">Hi 👋, I'm Ogechi Esther Igwegbe</h1>
-<h3 align="center">A Computer sciencestudent, with interest much interest in Data,Cloud and Security in IT</h3>
+<h3 align="center">A Computer science student, with  much interest in Data,Cloud and Security in IT</h3>
 
 - 🔭 I’m currently working on **Database**
 
